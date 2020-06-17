@@ -19,14 +19,14 @@ Links to come for [examples](https://github.com/Rayfall/Project-Vault-Reavers/tr
 - HTML
 - CSS
 
-
-- Current Version: 0
+Current Version: 0
 
 ## Planning
 
 > Vault Reavers [Planning Folder](https://github.com/Rayfall/Project-Vault-Reavers/tree/master/Planning)
 
 Motivation:
+
 I recently re-created the Vault Reavers dojo in Warframe but was left wondering how to show progress. I thought about creating just a simple one-page application but then turned that idea into something more. I have gamed with these players for years and want to start showcasing them and building up our community.
 
 Timeline:
